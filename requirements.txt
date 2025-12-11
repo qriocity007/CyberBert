@@ -1,5 +1,5 @@
 streamlit==1.44.0
-torch==2.5.0
+torch==2.5.1
 transformers==4.50.3
 pytesseract==0.3.13
 nltk==3.9.1
